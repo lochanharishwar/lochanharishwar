@@ -70,16 +70,16 @@ An **AI-powered astronomy education platform** — featuring Cosmo, a context-aw
 ## Technical Depth
 
 ```
-Languages        C          ████████████░░░░░░░░░  60%   *(process going on)*
-                 C++        █████████████░░░░░░░░  65%   *(process going on)*
-                 Python     ████░░░░░░░░░░░░░░░░░  20%   *(process going on)*
+Languages     C          ████████████░░░░░░░░░  60%  [ process going on ]
+              C++        █████████████░░░░░░░░  65%  [ process going on ]
+              Python     ████░░░░░░░░░░░░░░░░░  20%  [ process going on ]
 
-Backend          Supabase · PostgreSQL · Edge Functions
-                 Row-Level Security · Real-time Subscriptions
+Backend       Supabase · PostgreSQL · Edge Functions
+              Row-Level Security · Real-time Subscriptions
 
-AI & LLM         Google Gemini 2.5 Pro · @google/genai SDK
-                 Prompt Engineering · Context-Aware Systems
-                 Live Web Grounding · Structured Output
+AI & LLM      Google Gemini 2.5 Pro · @google/genai SDK
+              Prompt Engineering · Context-Aware Systems
+              Live Web Grounding · Structured Output
 ```
 
 ---
@@ -115,9 +115,7 @@ I'm **selectively open** to opportunities where the work is ambitious, the team 
 
 **If that describes what you're building, let's talk.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-k--m--lochan--harishwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-lochan-harishwar/)
-[![GitHub](https://img.shields.io/badge/GitHub-lochanharishwar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lochanharishwar)
-[![Gmail](https://img.shields.io/badge/Gmail-lochanharishwar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lochanharishwar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-k--m--lochan--harishwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-lochan-harishwar/) [![GitHub](https://img.shields.io/badge/GitHub-lochanharishwar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lochanharishwar) [![Gmail](https://img.shields.io/badge/Gmail-lochanharishwar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lochanharishwar@gmail.com)
 
 ---
 
