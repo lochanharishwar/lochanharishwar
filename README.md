@@ -113,7 +113,12 @@ That philosophy shows up in everything I ship:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lochanharishwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=480" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=lochanharishwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=480&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Lochan%27s+GitHub+Stats" alt="GitHub Stats" />
+
+<br /><br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lochanharishwar&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lochanharishwar&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 
 <br /><br />
 
