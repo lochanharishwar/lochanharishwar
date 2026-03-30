@@ -109,6 +109,39 @@ That philosophy shows up in everything I ship:
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lochanharishwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=480&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Lochan%27s+GitHub+Stats" alt="GitHub Stats" />
+
+<br /><br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lochanharishwar&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lochanharishwar&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+
+<br /><br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lochanharishwar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochanharishwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=480" alt="Top Languages" />
+
+</div>
+
+---
+
+## Recent Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lochanharishwar&theme=tokyo-night&hide_border=true&area=true&area_color=6366f1&color=a78bfa&line=6366f1&point=ffffff" alt="Activity Graph" width="100%" />
+
+</div>
+
+---
+
 ## Reach Out
 
 I'm **selectively open** to opportunities where the work is ambitious, the team is sharp, and the product **actually matters** to the people who use it.
