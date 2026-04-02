@@ -57,14 +57,6 @@ A **full-stack productivity platform** — React frontend, Supabase backend, AI-
 
 ---
 
-### 🌌 [A-STARLIGHT](https://github.com/lochanharishwar/A-STARLIGHT)
-
-> *Explore the cosmos. Understand the universe.*
-
-An **AI-powered astronomy education platform** — featuring Cosmo, a context-aware tutor that knows exactly what you're doing at any moment. Interactive sky maps, a simulated ML lab, and a narrative learning journey. Astronomy, accessible to everyone.
-
-`TypeScript` `React` `Recharts` `Gemini API` `Vite` `Custom CSS Animations`
-
 ---
 
 ## Technical Depth
@@ -109,17 +101,38 @@ That philosophy shows up in everything I ship:
 
 ---
 
+## Private Projects
+
+> *These are projects I've built but keep out of the public spotlight — either still being refined, or intentionally not open-sourced.*
+
+### 🌌 A-STARLIGHT *(Private)*
+
+> *Explore the cosmos. Understand the universe.*
+
+An **AI-powered astronomy education platform** — featuring Cosmo, a context-aware tutor that knows exactly what you're doing at any moment. Interactive sky maps, a simulated ML lab, and a narrative learning journey. Astronomy, accessible to everyone.
+
+`TypeScript` `React` `Recharts` `Gemini API` `Vite` `Custom CSS Animations`
+
+---
+
 ## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lochanharishwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&custom_title=Lochan%27s+GitHub+Stats" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochanharishwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lochanharishwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&custom_title=Lochan%27s%20GitHub%20Stats" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochanharishwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<br /><br />
+<br />
 
-<img src="https://streak-stats.demolab.com?user=lochanharishwar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=lochanharishwar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
@@ -141,7 +154,11 @@ I'm **selectively open** to opportunities where the work is ambitious, the team 
 
 **If that describes what you're building, let's talk.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-k--m--lochan--harishwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-lochan-harishwar/) [![GitHub](https://img.shields.io/badge/GitHub-lochanharishwar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lochanharishwar) [![Gmail](https://img.shields.io/badge/Gmail-lochanharishwar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lochanharishwar@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-k--m--lochan--harishwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-lochan-harishwar/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-lochanharishwar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lochanharishwar) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-lochanharishwar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lochanharishwar@gmail.com)
+
+</div>
 
 ---
 
@@ -149,7 +166,7 @@ I'm **selectively open** to opportunities where the work is ambitious, the team 
 
 <br />
 
-### **> *"Engineering is craft. AI is leverage. The combination is the work."***
+### **"Engineering is craft. AI is leverage. The combination is the work."**
 
 <br />
 
