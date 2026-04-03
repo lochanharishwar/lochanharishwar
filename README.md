@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Animated name reveal — JetBrains Mono, large, white, types once and holds -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=1800&pause=99999&color=FFFFFF&center=true&vCenter=true&width=750&height=70&lines=K+M+Lochan+Harishwar)](https://git.io/typing-svg)
+<!-- NAME — guaranteed visible, sharp white on dark, large -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=80&section=header&text=K%20M%20Lochan%20Harishwar&fontSize=52&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-<!-- Subtitle — cycles through roles, indigo accent, monospace -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=1200&color=6366f1&center=true&vCenter=true&width=750&height=30&lines=Full-Stack+Engineer;AI-Native+Builder;Open+Source+Contributor;Chasing+problems+worth+solving)](https://git.io/typing-svg)
+<!-- Subtitle — cycles through roles, indigo, monospace -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=6366f1&center=true&vCenter=true&width=750&height=32&lines=Full-Stack+Engineer;AI-Native+Builder;Open+Source+Contributor;Chasing+problems+worth+solving)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Badge row — dark background, indigo accent, flat-square -->
+<!-- Badge row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-k--m--lochan--harishwar-0d1117?style=flat-square&logo=linkedin&logoColor=6366f1&labelColor=0d1117)](https://www.linkedin.com/in/k-m-lochan-harishwar)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-lochanharishwar-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/lochanharishwar)&nbsp;
 [![Location](https://img.shields.io/badge/Mysuru%2C_India-0d1117?style=flat-square&logo=googlemaps&logoColor=6366f1&labelColor=0d1117)](https://maps.google.com/?q=Mysuru,India)&nbsp;
@@ -16,8 +16,8 @@
 
 <br/>
 
-<!-- Animated ticker — slow scroll of keywords at the bottom of header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=11&duration=5000&pause=200&color=6366f1&center=true&vCenter=true&width=750&height=16&lines=//+TypeScript+%C2%B7+React+%C2%B7+Supabase+%C2%B7+Gemini+2.5+Pro+%C2%B7+PostgreSQL+%C2%B7+Edge+Functions+%C2%B7+C%2B%2B+%C2%B7+C+%C2%B7+Vite+//)](https://git.io/typing-svg)
+<!-- Tech stack ticker -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=12&duration=5000&pause=200&color=6366f1&center=true&vCenter=true&width=750&height=18&lines=//+TypeScript+%C2%B7+React+%C2%B7+Supabase+%C2%B7+Gemini+2.5+Pro+%C2%B7+PostgreSQL+%C2%B7+Edge+Functions+%C2%B7+C%2B%2B+%C2%B7+C+%C2%B7+Vite+//)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 <br/>
 
-## Who I Am
+# Who I Am
 
 I'm a full-stack engineer who builds AI-native products — systems where the intelligence isn't bolted on, it's structural. My work sits at the intersection of software architecture and applied AI: designing backends that scale, frontends that think, and pipelines that do something useful with language models beyond chat demos.
 
@@ -37,9 +37,10 @@ I'm a full-stack engineer who builds AI-native products — systems where the in
 
 <br/>
 
-## What I Build
+# What I Build
 
 ### [`SYSTEMATIC-SEARCH`](https://github.com/lochanharishwar/SYSTEMATIC-SEARCH) — Personalized Intelligence Engine
+
 A research tool that **profiles** how you think, then shapes information retrieval around that profile. Uses Socratic dialogue to extract your reasoning patterns before surfacing relevant content. **Synthesizes** across sources rather than listing them.
 
 `TypeScript` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Gemini 2.5 Pro` &nbsp;·&nbsp; `Vite`
@@ -47,13 +48,14 @@ A research tool that **profiles** how you think, then shapes information retriev
 <br/>
 
 ### [`GOALBOOST`](https://github.com/lochanharishwar/GOALBOOST) — Full-Stack Productivity Platform
+
 A goal-tracking system that **nudges** rather than notifies. Real-time sync, row-level security per user, edge functions for async work. Built to be used daily, not opened once and forgotten.
 
 `TypeScript` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Tailwind CSS`
 
 <br/>
 
-## Technical Depth
+# Technical Depth
 
 ```
 Languages     C          ████████████░░░░░░░░░  60%  [ process going on ]
@@ -70,7 +72,7 @@ AI & LLM      Google Gemini 2.5 Pro · @google/genai SDK
 
 <br/>
 
-## How I Think About Software
+# How I Think About Software
 
 **Good software is empathetic.** It anticipates what the user needs next, not just what they asked for. That means thinking about state transitions, failure cases, and edge conditions before they become bugs — and designing interfaces that make the right action obvious.
 
@@ -80,7 +82,7 @@ I also believe that **the best code is code that doesn't need to exist.** Every 
 
 <br/>
 
-## Currently Exploring
+# Currently Exploring
 
 - **Agentic architectures** — multi-step reasoning with tool use and memory
 - **Context-aware retrieval** — beyond naive RAG, toward systems that understand *why* a piece of information is relevant
@@ -89,13 +91,13 @@ I also believe that **the best code is code that doesn't need to exist.** Every 
 
 <br/>
 
-## Private Projects
+# Private Projects
 
 **A-STARLIGHT** *(Private)* — AI-powered astronomy education platform. Personalized learning paths, real sky data integration, Gemini API for explanation generation.&nbsp; `TypeScript` · `React` · `Recharts` · `Gemini API`
 
 <br/>
 
-## GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -118,7 +120,7 @@ I also believe that **the best code is code that doesn't need to exist.** Every 
 
 <br/>
 
-## GitHub Trophies
+# GitHub Trophies
 
 <div align="center">
 
@@ -128,7 +130,7 @@ I also believe that **the best code is code that doesn't need to exist.** Every 
 
 <br/>
 
-## Recent Activity
+# Recent Activity
 
 <div align="center">
 
@@ -154,7 +156,7 @@ I also believe that **the best code is code that doesn't need to exist.** Every 
 
 <br/>
 
-<!-- Animated closing line — fades through the stack, whisper quiet -->
+<!-- Closing ticker -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=11&duration=4500&pause=400&color=444444&center=true&vCenter=true&width=750&height=18&lines=lochanharishwar+%C2%B7+Mysuru%2C+India+%C2%B7+Full-Stack+%C2%B7+AI-Native+%C2%B7+Open+to+Opportunities)](https://git.io/typing-svg)
 
 <br/>
