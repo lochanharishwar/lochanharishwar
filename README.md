@@ -1,25 +1,18 @@
+<!-- Animated Waving Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=K%20M%20Lochan%20Harishwar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI-Native%20Builder%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-```
-██╗      ██████╗  ██████╗██╗  ██╗ █████╗ ███╗   ██╗
-██║     ██╔═══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║
-██║     ██║   ██║██║     ███████║███████║██╔██╗ ██║
-██║     ██║   ██║██║     ██╔══██║██╔══██║██║╚██╗██║
-███████╗╚██████╔╝╚██████╗██║  ██║██║  ██║██║ ╚████║
-╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI-native+products+that+ship+%F0%9F%9A%80;Full-Stack+Engineer+%2B+AI+Builder+%F0%9F%A7%A0;Chasing+problems+worth+solving+%F0%9F%94%A5;Engineering+is+craft.+AI+is+leverage.+%E2%9A%A1)](https://git.io/typing-svg)
 
-### *K M Lochan Harishwar*
-#### Full-Stack Engineer · AI-Native Builder · Open Source Contributor
+<br/>
 
-<br />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-lochan-harishwar/)
+<!-- Badge Row -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-k--m--lochan--harishwar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-lochan-harishwar)
 [![GitHub](https://img.shields.io/badge/GitHub-lochanharishwar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lochanharishwar)
-[![Location](https://img.shields.io/badge/Based%20in-India-FF9933?style=flat-square&logo=googlemaps&logoColor=white)](#)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=flat-square)](#)
-
-<br />
+[![Location](https://img.shields.io/badge/Location-Mysuru%2C%20India-brightgreen?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Mysuru,India)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-6366f1?style=flat-square&logo=checkmarx&logoColor=white)]()
 
 </div>
 
@@ -27,35 +20,23 @@
 
 ## Who I Am
 
-I build things that think. My work sits at the intersection of **full-stack engineering** and **AI product development** — where TypeScript meets Gemini, where user experience meets intelligence, and where a blank repo becomes something someone actually uses.
+I'm a full-stack engineer who builds AI-native products — systems where the intelligence isn't bolted on, it's structural. My work sits at the intersection of software architecture and applied AI: designing backends that scale, frontends that think, and pipelines that do something useful with language models beyond chat demos.
 
-I'm not chasing frameworks. **I'm chasing problems worth solving.** Every project I ship is an attempt to answer one question: *what should software actually do for people?*
+**I'm chasing problems worth solving.** Not the kind that produce impressive demos. The kind where a working solution changes how someone makes decisions, learns something, or gets through their day. That specificity matters to me — it's the difference between building features and building products.
 
-When I'm not writing production code, I'm exploring the edge of what **AI-native interfaces** can be — and pushing that edge a little further with every release.
+**I build around outcomes.** The technical choices — model selection, state management, data layer design — follow from what the product needs to do, not from what's trending. That discipline shows in the projects below.
 
 ---
 
 ## What I Build
 
-### 🔍 [SYSTEMATIC-SEARCH](https://github.com/lochanharishwar/SYSTEMATIC-SEARCH)
+### [`SYSTEMATIC-SEARCH`](https://github.com/lochanharishwar/SYSTEMATIC-SEARCH) — Personalized Intelligence Engine
+A research tool that **profiles** how you think, then shapes information retrieval around that profile. Uses Socratic dialogue to extract your reasoning patterns before surfacing relevant content. **Synthesizes** across sources rather than listing them.
+`TypeScript` · `React` · `Gemini 2.5 Pro` · `Vite`
 
-> *Stop searching for answers. Start searching for the right questions.*
-
-A **personalized intelligence engine** — Socratic dialogue profiles you first, then Gemini 2.5 Pro synthesizes live web data into a discovery brief written *specifically for you*. Same query, different person, different output. Entirely by design.
-
-`TypeScript` `React` `Gemini 2.5 Pro` `Vite` `Live Web Grounding`
-
----
-
-### 🚀 [GOALBOOST](https://github.com/lochanharishwar/GOALBOOST)
-
-> *Set goals. Track progress. Actually achieve them.*
-
-A **full-stack productivity platform** — React frontend, Supabase backend, AI-powered goal suggestions, and real-time progress sync. Auth, database, and edge functions. Production-grade, end to end.
-
-`TypeScript` `React` `Supabase` `PostgreSQL` `Tailwind CSS` `AI Suggestions`
-
----
+### [`GOALBOOST`](https://github.com/lochanharishwar/GOALBOOST) — Full-Stack Productivity Platform
+A goal-tracking system that **nudges** rather than notifies. Real-time sync, row-level security per user, edge functions for async work. Built to be used daily, not opened once and forgotten.
+`TypeScript` · `React` · `Supabase` · `PostgreSQL` · `Tailwind CSS`
 
 ---
 
@@ -78,40 +59,27 @@ AI & LLM      Google Gemini 2.5 Pro · @google/genai SDK
 
 ## How I Think About Software
 
-Most tools are built around features. **I build around outcomes.**
+**Good software is empathetic.** It anticipates what the user needs next, not just what they asked for. That means thinking about state transitions, failure cases, and edge conditions before they become bugs — and designing interfaces that make the right action obvious.
 
-The question I ask before writing any code is: *what does the person on the other side of this interface actually need?* Not what they typed into a search bar — **what they're actually trying to accomplish.**
+I care about the seam between AI and the rest of the stack. Most AI-integrated apps are fragile at that seam: the model output doesn't map cleanly to the UI, the error handling assumes the model always succeeds, the prompt is written once and never revisited. I treat that seam as first-class engineering work.
 
-That philosophy shows up in everything I ship:
-
-- **SYSTEMATIC-SEARCH** doesn't just retrieve — it **profiles, synthesizes, and personalizes**
-- **GOALBOOST** doesn't just track — it **nudges, suggests, and adapts**
-- **A-STARLIGHT** doesn't just explain — it **responds to exactly where you are** in the learning journey
-
-**Good software is empathetic.** It does the cognitive work so the user doesn't have to.
+I also believe that **the best code is code that doesn't need to exist.** Every abstraction is a bet that the complexity it hides is worth the indirection it adds. I take that bet seriously.
 
 ---
 
 ## Currently Exploring
 
-- Building AI-native interfaces that feel more like conversations than dashboards
-- The architecture of context-aware AI systems — how to make AI genuinely useful rather than generically capable
-- Supabase + real-time data patterns for collaborative, live-updating applications
-- The boundary between "app" and "agent" — and what it means when that line disappears
+- **Agentic architectures** — multi-step reasoning with tool use and memory
+- **Context-aware retrieval** — beyond naive RAG, toward systems that understand *why* a piece of information is relevant
+- **Systems programming** — C/C++ fundamentals as a forcing function for understanding what higher-level abstractions are actually doing
+- **Open source contribution** — finding projects where I can close real issues, not just add my name to contributor lists
 
 ---
 
 ## Private Projects
 
-> *These are projects I've built but keep out of the public spotlight — either still being refined, or intentionally not open-sourced.*
-
-### 🌌 A-STARLIGHT *(Private)*
-
-> *Explore the cosmos. Understand the universe.*
-
-An **AI-powered astronomy education platform** — featuring Cosmo, a context-aware tutor that knows exactly what you're doing at any moment. Interactive sky maps, a simulated ML lab, and a narrative learning journey. Astronomy, accessible to everyone.
-
-`TypeScript` `React` `Recharts` `Gemini API` `Vite` `Custom CSS Animations`
+**A-STARLIGHT** *(Private)* — AI-powered astronomy education platform. Personalized learning paths, real sky data integration, Gemini API for explanation generation.
+`TypeScript` · `React` · `Recharts` · `Gemini API`
 
 ---
 
@@ -120,19 +88,27 @@ An **AI-powered astronomy education platform** — featuring Cosmo, a context-aw
 <div align="center">
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lochanharishwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&custom_title=Lochan%27s%20GitHub%20Stats" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochanharishwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-    </td>
-  </tr>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=lochanharishwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochanharishwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+</td>
+</tr>
 </table>
 
-<br />
+[![GitHub Streak](https://streak-stats.demolab.com?user=lochanharishwar&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-<img src="https://streak-stats.demolab.com/?user=lochanharishwar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lochanharishwar&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -142,7 +118,7 @@ An **AI-powered astronomy education platform** — featuring Cosmo, a context-aw
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lochanharishwar&theme=tokyo-night&hide_border=true&area=true&color=a78bfa&line=6366f1&point=ffffff" alt="Activity Graph" width="100%" />
+[![Lochan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lochanharishwar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -150,13 +126,11 @@ An **AI-powered astronomy education platform** — featuring Cosmo, a context-aw
 
 ## Reach Out
 
-I'm **selectively open** to opportunities where the work is ambitious, the team is sharp, and the product **actually matters** to the people who use it.
-
-**If that describes what you're building, let's talk.**
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-k--m--lochan--harishwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-lochan-harishwar/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-lochanharishwar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lochanharishwar) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-lochanharishwar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lochanharishwar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/k-m-lochan-harishwar) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-lochanharishwar%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:lochanharishwar@gmail.com) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-lochanharishwar-181717?style=flat-square&logo=github)](https://github.com/lochanharishwar)
+
+**If that describes what you're building, let's talk.**
 
 </div>
 
@@ -164,12 +138,9 @@ I'm **selectively open** to opportunities where the work is ambitious, the team 
 
 <div align="center">
 
-<br />
-
 ### **"Engineering is craft. AI is leverage. The combination is the work."**
 
-<br />
-
-![Profile Views](https://komarev.com/ghpvc/?username=lochanharishwar&color=6366f1&style=flat-square&label=Profile+Views)
-
 </div>
+
+<!-- Animated Waving Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
