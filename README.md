@@ -1,22 +1,31 @@
-<!-- Animated Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=K%20M%20Lochan%20Harishwar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI-Native%20Builder%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
 <div align="center">
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI-native+products+that+ship+%F0%9F%9A%80;Full-Stack+Engineer+%2B+AI+Builder+%F0%9F%A7%A0;Chasing+problems+worth+solving+%F0%9F%94%A5;Engineering+is+craft.+AI+is+leverage.+%E2%9A%A1)](https://git.io/typing-svg)
+<!-- Animated name reveal — JetBrains Mono, large, white, types once and holds -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=1800&pause=99999&color=FFFFFF&center=true&vCenter=true&width=750&height=70&lines=K+M+Lochan+Harishwar)](https://git.io/typing-svg)
+
+<!-- Subtitle — cycles through roles, indigo accent, monospace -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=1200&color=6366f1&center=true&vCenter=true&width=750&height=30&lines=Full-Stack+Engineer;AI-Native+Builder;Open+Source+Contributor;Chasing+problems+worth+solving)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Badge Row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-k--m--lochan--harishwar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-lochan-harishwar)
-[![GitHub](https://img.shields.io/badge/GitHub-lochanharishwar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lochanharishwar)
-[![Location](https://img.shields.io/badge/Location-Mysuru%2C%20India-brightgreen?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Mysuru,India)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-6366f1?style=flat-square&logo=checkmarx&logoColor=white)]()
+<!-- Badge row — dark background, indigo accent, flat-square -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-k--m--lochan--harishwar-0d1117?style=flat-square&logo=linkedin&logoColor=6366f1&labelColor=0d1117)](https://www.linkedin.com/in/k-m-lochan-harishwar)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-lochanharishwar-0d1117?style=flat-square&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/lochanharishwar)&nbsp;
+[![Location](https://img.shields.io/badge/Mysuru%2C_India-0d1117?style=flat-square&logo=googlemaps&logoColor=6366f1&labelColor=0d1117)](https://maps.google.com/?q=Mysuru,India)&nbsp;
+[![Open to Work](https://img.shields.io/badge/Open_to_Opportunities-6366f1?style=flat-square&color=6366f1&labelColor=6366f1)](https://www.linkedin.com/in/k-m-lochan-harishwar)
+
+<br/>
+
+<!-- Animated ticker — slow scroll of keywords at the bottom of header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=11&duration=5000&pause=200&color=6366f1&center=true&vCenter=true&width=750&height=16&lines=//+TypeScript+%C2%B7+React+%C2%B7+Supabase+%C2%B7+Gemini+2.5+Pro+%C2%B7+PostgreSQL+%C2%B7+Edge+Functions+%C2%B7+C%2B%2B+%C2%B7+C+%C2%B7+Vite+//)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=1&section=header" width="60%"/>
 
 </div>
 
----
+<br/>
 
 ## Who I Am
 
@@ -26,19 +35,23 @@ I'm a full-stack engineer who builds AI-native products — systems where the in
 
 **I build around outcomes.** The technical choices — model selection, state management, data layer design — follow from what the product needs to do, not from what's trending. That discipline shows in the projects below.
 
----
+<br/>
 
 ## What I Build
 
 ### [`SYSTEMATIC-SEARCH`](https://github.com/lochanharishwar/SYSTEMATIC-SEARCH) — Personalized Intelligence Engine
 A research tool that **profiles** how you think, then shapes information retrieval around that profile. Uses Socratic dialogue to extract your reasoning patterns before surfacing relevant content. **Synthesizes** across sources rather than listing them.
-`TypeScript` · `React` · `Gemini 2.5 Pro` · `Vite`
+
+`TypeScript` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Gemini 2.5 Pro` &nbsp;·&nbsp; `Vite`
+
+<br/>
 
 ### [`GOALBOOST`](https://github.com/lochanharishwar/GOALBOOST) — Full-Stack Productivity Platform
 A goal-tracking system that **nudges** rather than notifies. Real-time sync, row-level security per user, edge functions for async work. Built to be used daily, not opened once and forgotten.
-`TypeScript` · `React` · `Supabase` · `PostgreSQL` · `Tailwind CSS`
 
----
+`TypeScript` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Tailwind CSS`
+
+<br/>
 
 ## Technical Depth
 
@@ -55,7 +68,7 @@ AI & LLM      Google Gemini 2.5 Pro · @google/genai SDK
               Live Web Grounding · Structured Output
 ```
 
----
+<br/>
 
 ## How I Think About Software
 
@@ -65,7 +78,7 @@ I care about the seam between AI and the rest of the stack. Most AI-integrated a
 
 I also believe that **the best code is code that doesn't need to exist.** Every abstraction is a bet that the complexity it hides is worth the indirection it adds. I take that bet seriously.
 
----
+<br/>
 
 ## Currently Exploring
 
@@ -74,73 +87,78 @@ I also believe that **the best code is code that doesn't need to exist.** Every 
 - **Systems programming** — C/C++ fundamentals as a forcing function for understanding what higher-level abstractions are actually doing
 - **Open source contribution** — finding projects where I can close real issues, not just add my name to contributor lists
 
----
+<br/>
 
 ## Private Projects
 
-**A-STARLIGHT** *(Private)* — AI-powered astronomy education platform. Personalized learning paths, real sky data integration, Gemini API for explanation generation.
-`TypeScript` · `React` · `Recharts` · `Gemini API`
+**A-STARLIGHT** *(Private)* — AI-powered astronomy education platform. Personalized learning paths, real sky data integration, Gemini API for explanation generation.&nbsp; `TypeScript` · `React` · `Recharts` · `Gemini API`
 
----
+<br/>
 
 ## GitHub Stats
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="8">
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=lochanharishwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lochanharishwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&cache_seconds=1800"/>
 </td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochanharishwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochanharishwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&cache_seconds=1800"/>
 </td>
 </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lochanharishwar&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lochanharishwar&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1)](https://git.io/streak-stats)
 
 </div>
 
----
+<br/>
 
 ## GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lochanharishwar&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lochanharishwar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
----
+<br/>
 
 ## Recent Activity
 
 <div align="center">
 
-[![Lochan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lochanharishwar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lochanharishwar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&area_color=6366f1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+<br/>
 
-## Reach Out
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/k-m-lochan-harishwar) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-lochanharishwar%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:lochanharishwar@gmail.com) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-lochanharishwar-181717?style=flat-square&logo=github)](https://github.com/lochanharishwar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=6366f1)](https://www.linkedin.com/in/k-m-lochan-harishwar)&nbsp;&nbsp;[![Gmail](https://img.shields.io/badge/lochanharishwar%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=6366f1)](mailto:lochanharishwar@gmail.com)&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/lochanharishwar)
+
+<br/>
 
 **If that describes what you're building, let's talk.**
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ### **"Engineering is craft. AI is leverage. The combination is the work."**
 
-</div>
+<br/>
 
-<!-- Animated Waving Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<!-- Animated closing line — fades through the stack, whisper quiet -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=11&duration=4500&pause=400&color=444444&center=true&vCenter=true&width=750&height=18&lines=lochanharishwar+%C2%B7+Mysuru%2C+India+%C2%B7+Full-Stack+%C2%B7+AI-Native+%C2%B7+Open+to+Opportunities)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=1&section=footer" width="60%"/>
+
+</div>
