@@ -1,175 +1,97 @@
 <div align="center">
 
-```
-██╗      ██████╗  ██████╗██╗  ██╗ █████╗ ███╗   ██╗
-██║     ██╔═══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║
-██║     ██║   ██║██║     ███████║███████║██╔██╗ ██║
-██║     ██║   ██║██║     ██╔══██║██╔══██║██║╚██╗██║
-███████╗╚██████╔╝╚██████╗██║  ██║██║  ██║██║ ╚████║
-╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+# K M Lochan Harishwar
 
-### *K M Lochan Harishwar*
-#### Full-Stack Engineer · AI-Native Builder · Open Source Contributor
+### Computer Science Undergraduate · Full-Stack & Applied AI Builder
 
-<br />
+**Building useful software at the intersection of AI, computer vision, data, and product design.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-lochan-harishwar/)
-[![GitHub](https://img.shields.io/badge/GitHub-lochanharishwar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lochanharishwar)
-[![Location](https://img.shields.io/badge/Based%20in-India-FF9933?style=flat-square&logo=googlemaps&logoColor=white)](#)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=flat-square)](#)
+Bengaluru, India · B.Tech Computer Science, Dayananda Sagar University
 
-<br />
+[![GitHub](https://img.shields.io/badge/GitHub-lochanharishwar-181717?style=flat-square&logo=github)](https://github.com/lochanharishwar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/k-m-lochan-harishwar/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lochanharishwar@gmail.com)
 
 </div>
 
 ---
 
-## Who I Am
+## About me
 
-I build things that think. My work sits at the intersection of **full-stack engineering** and **AI product development** — where TypeScript meets Gemini, where user experience meets intelligence, and where a blank repo becomes something someone actually uses.
+I'm Lochan, a computer science student who enjoys turning ambitious ideas into interactive, working prototypes and progressively more rigorous software systems. My projects range from **AI-powered learning tools** and **motorsport computer vision** to **financial decision support**, **agricultural intelligence**, and **agentic marketing workflows**.
 
-I'm not chasing frameworks. **I'm chasing problems worth solving.** Every project I ship is an attempt to answer one question: *what should software actually do for people?*
+I'm especially interested in the space between a model demonstration and a genuinely useful product: human-centered interfaces, reliable data pipelines, interpretable outputs, and honest evaluation.
 
-When I'm not writing production code, I'm exploring the edge of what **AI-native interfaces** can be — and pushing that edge a little further with every release.
+- **Currently exploring:** multimodal AI, agent workflows, computer vision, applied machine learning, and practical full-stack architecture.
+- **I like building:** research dashboards, intelligent canvases, data-rich applications, and tools that help people make better decisions.
+- **I value:** clear UX, reproducibility, evidence, and human oversight when AI is uncertain.
 
----
+## Featured projects
 
-## What I Build
+| Project | What it explores | Stack / areas |
+| :--- | :--- | :--- |
+| **[Ghost Rival Studio](https://github.com/lochanharishwar/ghost-rival-studio)** | Motorsport video research: car tracking, experimental wheel segmentation, analyst-drawn track geometry, frame-level evidence, and simulation. Research limitations are documented. | Python, FastAPI, OpenCV, PyTorch, React |
+| **[MYPREP / Margin](https://github.com/lochanharishwar/MYPREP)** | AI mathematics notebook with a freeform whiteboard, tutoring agents, handwriting interpretation, graphing, and symbolic verification. | Next.js, TypeScript, Gemma, SymPy, Prisma |
+| **[One-Marketer / BrandCurrent](https://github.com/lochanharishwar/One-Marketer)** | Multi-agent marketing workspace spanning brand research, content review, scheduling, insights, and governed team workflows. | React, TypeScript, Supabase, Inngest, Python |
+| **[SYSTEMATIC-SEARCH](https://github.com/lochanharishwar/SYSTEMATIC-SEARCH)** | Socratic search that first understands the researcher's context, then assembles personalized discovery briefs. | React, Vite, TypeScript, Gemini |
+| **[krishimitre](https://github.com/lochanharishwar/krishimitre)** | IndiaAgroWatch: a geospatial crop and irrigation monitoring dashboard combining weather, soil, map layers, and an AI farm adviser. | TanStack Start, React, Maps, Gemini |
+| **[datathon2026](https://github.com/lochanharishwar/datathon2026)** | Case intelligence dashboard with search, filters, map visualization, case analytics, and a conversational assistant. | TanStack Start, TypeScript, Recharts, Leaflet |
 
-### 🔍 [SYSTEMATIC-SEARCH](https://github.com/lochanharishwar/SYSTEMATIC-SEARCH)
+## More things I've built
 
-> *Stop searching for answers. Start searching for the right questions.*
+- **[GOALBOOST](https://github.com/lochanharishwar/GOALBOOST)** — goal-setting and progress-tracking app with AI-assisted suggestions and Supabase integration.
+- **[AI-Robbery-Stopper](https://github.com/lochanharishwar/AI-Robbery-Stopper)** — SecureSense, a home-security AI interface exploring camera and microphone-assisted deterrence.
+- **[TriNetra-AstraAI](https://github.com/lochanharishwar/TriNetra-AstraAI)** — agent-based marketing and brand-content experimentation.
+- **[ParcelMapper](https://github.com/lochanharishwar/ParcelMapper)** — early drone-video frame extraction and testing work for a cadastral mapping pipeline.
 
-A **personalized intelligence engine** — Socratic dialogue profiles you first, then Gemini 2.5 Pro synthesizes live web data into a discovery brief written *specifically for you*. Same query, different person, different output. Entirely by design.
+Some ongoing work is private, including **FINORA** (financial risk and cash-flow decision support), **A-STARLIGHT** (interactive astronomy education), and additional marketing experiments.
 
-`TypeScript` `React` `Gemini 2.5 Pro` `Vite` `Live Web Grounding`
-
----
-
-### 🚀 [GOALBOOST](https://github.com/lochanharishwar/GOALBOOST)
-
-> *Set goals. Track progress. Actually achieve them.*
-
-A **full-stack productivity platform** — React frontend, Supabase backend, AI-powered goal suggestions, and real-time progress sync. Auth, database, and edge functions. Production-grade, end to end.
-
-`TypeScript` `React` `Supabase` `PostgreSQL` `Tailwind CSS` `AI Suggestions`
-
----
-
----
-
-## Technical Depth
-
-```
-Languages     C          ████████████░░░░░░░░░  60%  [ process going on ]
-              C++        █████████████░░░░░░░░  65%  [ process going on ]
-              Python     ████░░░░░░░░░░░░░░░░░  20%  [ process going on ]
-
-Backend       Supabase · PostgreSQL · Edge Functions
-              Row-Level Security · Real-time Subscriptions
-
-AI & LLM      Google Gemini 2.5 Pro · @google/genai SDK
-              Prompt Engineering · Context-Aware Systems
-              Live Web Grounding · Structured Output
-```
-
----
-
-## How I Think About Software
-
-Most tools are built around features. **I build around outcomes.**
-
-The question I ask before writing any code is: *what does the person on the other side of this interface actually need?* Not what they typed into a search bar — **what they're actually trying to accomplish.**
-
-That philosophy shows up in everything I ship:
-
-- **SYSTEMATIC-SEARCH** doesn't just retrieve — it **profiles, synthesizes, and personalizes**
-- **GOALBOOST** doesn't just track — it **nudges, suggests, and adapts**
-- **A-STARLIGHT** doesn't just explain — it **responds to exactly where you are** in the learning journey
-
-**Good software is empathetic.** It does the cognitive work so the user doesn't have to.
-
----
-
-## Currently Exploring
-
-- Building AI-native interfaces that feel more like conversations than dashboards
-- The architecture of context-aware AI systems — how to make AI genuinely useful rather than generically capable
-- Supabase + real-time data patterns for collaborative, live-updating applications
-- The boundary between "app" and "agent" — and what it means when that line disappears
-
----
-
-## Private Projects
-
-> *These are projects I've built but keep out of the public spotlight — either still being refined, or intentionally not open-sourced.*
-
-### 🌌 A-STARLIGHT *(Private)*
-
-> *Explore the cosmos. Understand the universe.*
-
-An **AI-powered astronomy education platform** — featuring Cosmo, a context-aware tutor that knows exactly what you're doing at any moment. Interactive sky maps, a simulated ML lab, and a narrative learning journey. Astronomy, accessible to everyone.
-
-`TypeScript` `React` `Recharts` `Gemini API` `Vite` `Custom CSS Animations`
-
----
-
-## GitHub Stats
+## Technology I work with
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lochanharishwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&custom_title=Lochan%27s%20GitHub%20Stats" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochanharishwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<img src="https://streak-stats.demolab.com/?user=lochanharishwar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+![Skills](https://skillicons.dev/icons?i=python,cpp,ts,js,react,nextjs,tailwind,html,css,fastapi,postgres,supabase,pytorch,opencv,git,github,figma&perline=9)
 
 </div>
+
+| Area | Tools and interests |
+| :--- | :--- |
+| **Frontend** | React, Next.js, TypeScript, Vite, Tailwind CSS, component systems, interactive dashboards |
+| **Backend & data** | Python, FastAPI, Node.js, PostgreSQL, Prisma, Supabase, REST APIs |
+| **AI & vision** | Gemini / Gemma integrations, PyTorch, OpenCV, model evaluation, multimodal workflows |
+| **Product engineering** | Human-in-the-loop systems, agent orchestration, geospatial interfaces, visualization, prototyping |
+
+## How I build
+
+1. **Find a real problem.** Understand the user and their workflow before choosing the technology.
+2. **Prototype the interaction.** Make the intended outcome visible and testable.
+3. **Connect real data and reasoning.** Build pipelines, checks, and integrations around the interface.
+4. **Measure what works.** Document limits, edge cases, and what still needs validation.
+5. **Keep iterating.** Each hackathon and project is a chance to learn a new part of engineering.
+
+## Currently learning
+
+- Reliable computer vision under real-world camera and annotation constraints
+- Model evaluation and the difference between a research checkpoint and a validated product
+- Secure, scalable full-stack systems and cloud deployment
+- Explainable AI-assisted decisions and evidence-backed workflows
+- Data structures, algorithms, and fundamental computer science
 
 ---
 
-## Recent Activity
+## GitHub stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lochanharishwar&theme=tokyo-night&hide_border=true&area=true&color=a78bfa&line=6366f1&point=ffffff" alt="Activity Graph" width="100%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lochanharishwar&show_icons=true&theme=transparent&hide_border=true" alt="Lochan's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochanharishwar&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most-used languages in public repositories" />
+
+<img src="https://streak-stats.demolab.com?user=lochanharishwar&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lochanharishwar&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+![Profile views](https://komarev.com/ghpvc/?username=lochanharishwar&style=flat-square&color=2563eb)
 
 </div>
 
----
-
-## Reach Out
-
-I'm **selectively open** to opportunities where the work is ambitious, the team is sharp, and the product **actually matters** to the people who use it.
-
-**If that describes what you're building, let's talk.**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-k--m--lochan--harishwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-m-lochan-harishwar/) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-lochanharishwar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lochanharishwar) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-lochanharishwar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lochanharishwar@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<br />
-
-### **"Engineering is craft. AI is leverage. The combination is the work."**
-
-<br />
-
-![Profile Views](https://komarev.com/ghpvc/?username=lochanharishwar&color=6366f1&style=flat-square&label=Profile+Views)
-
-</div>
+<sub>These are third-party public GitHub widgets. They may be temporarily unavailable or cached and generally do not reflect private repository details.</sub>
